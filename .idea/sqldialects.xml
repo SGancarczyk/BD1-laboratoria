@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/create_schema.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/insert_data.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/lab1/lab1.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/lab1/lab1_2.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/lab1/lab1_pd.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/lab10/10_1.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/lab10/lab10_1.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/lab2/lab2_1.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/lab2/lab2_2.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/lab7/7_1.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/lab7/7_2.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/lab7/7_3.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/lab7/7_4.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/lab8/8_1.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/lab8/8_2.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/lab8/8_3.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/lab8/8_4.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/lab8/lab8_1.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/lab8/lab8_2.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/lab9/9_1.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/lab9/9_2.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/lab9/9_3.sql" dialect="Oracle" />
+    <file url="file://$PROJECT_DIR$/lab9/9_4.sql" dialect="Oracle" />
+    <file url="PROJECT" dialect="Oracle" />
+  </component>
+</project>
