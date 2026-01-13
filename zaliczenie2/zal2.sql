@@ -62,7 +62,7 @@ END;
 /
 
 BEGIN
-    transfer_employee_check_budget(101, 10);
+    transfer_employee_check_budget(101, 101);
 
 EXCEPTION
     WHEN OTHERS THEN

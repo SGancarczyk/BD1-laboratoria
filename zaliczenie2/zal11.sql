@@ -1,4 +1,4 @@
-CREATE OR REPLACE FUNCTION get_conditional_dept_sum(dept_id NUMBER)
+CREATE OR REPLACE FUNCTION get_dept_sum(dept_id NUMBER)
     RETURN NUMBER
 AS
     v_count NUMBER;
@@ -23,7 +23,7 @@ SELECT
     department_id,
     name,
     (SELECT COUNT(*) FROM employees WHERE department_id = d.department_id) as licznik_pracownikow,
-    get_conditional_dept_sum(department_id) AS wynik_funkcji
+    get_dept_sum(department_id) AS wynik_funkcji
 FROM departments d;
 
 
